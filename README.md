@@ -1,6 +1,6 @@
-<h1 align="center">Skincare E-Commerce Platform</h1>
+<h1 align="center">Fit Me GLow E-Commerce Platform</h1>
 
-A comprehensive e-commerce platform for Korean skincare products built with Django. Features include user authentication, product management, shopping cart, wishlist, advanced filtering by product type, skin type, and skin concern, sorting by prices, and secure checkout with Stripe integration.
+A comprehensive e-commerce platform for skincare products built with Django. Features include user authentication, product management, shopping cart, wishlist, advanced filtering by product type, skin type, and skin concern, sorting by prices, and secure checkout with Stripe integration.
 
 ## Table of Contents
 1. [Technologies Used](#technologies-used)
